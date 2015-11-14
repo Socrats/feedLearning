@@ -1,0 +1,12 @@
+{
+  "name": "socrats/feedLearning",
+  "description": "PHP RSS feed retrieval tool",
+  "minimum-stability": "develop",
+  "license": "GNU GENERAL PUBLIC LICENCE",
+  "authors": [
+    {
+      "name": "socrats",
+      "email": "email@example.com"
+    }
+  ]
+}
